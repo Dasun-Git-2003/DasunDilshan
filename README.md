@@ -54,12 +54,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Dasun's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
-
----
-
 ## 📫 Contact Me
 
 * 📧 Email: [dasundilshan2003@gmail.com](mailto:your-email@example.com)
